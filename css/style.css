@@ -1,0 +1,54 @@
+html {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+
+body {
+  background-color:#14171a ;
+}
+
+
+
+.traveler {
+  height: 100px;
+  border-radius: 50%;
+}
+.main-target {
+  text-decoration: underline; 
+}
+
+.slogan {
+  text-decoration: underline overline; 
+  text-transform: uppercase;
+}
+
+
+.content {
+  font-size: 12px
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #fce8e9;
+}
+
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+.btn {
+  border-radius: 50px;
+  background-color: #6C63FF;
+  border: none;
+}
+
+.btn:hover {
+  background-color:#F3A3A6;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: #fce8e9;
+    text-align: center;
+}

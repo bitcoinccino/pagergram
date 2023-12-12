@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f3a3a6;
+        font-family: ChocolateRegular, Chocolate;
+        font-size: 53.95px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #f3a3a6;
+        stroke-miterlimit: 10;
+        stroke-width: 8.12px;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="m41.07,17.44c-1.95-.03-7.1-.09-12.09,2.97-5.25,3.22-9.76,9.56-9.99,16.88-.29,9.1,6.1,17.85,15.84,21.11.57.19,1.16.29,1.75.34,21.84,1.63,43.69,3.27,65.53,4.9,4.32.32,8.01-3.08,8.05-7.41.08-10.29.16-20.57.24-30.86.03-4.13-3.29-7.51-7.43-7.55-28.37-.24-50.04-.23-61.9-.38Zm47.28,21.6c.05,4.03-2.94,7.38-6.82,7.92-.33.05-.67.07-1.01.08l-23.68.24c-4.37.04-7.95-3.46-8-7.83-.05-4.03,2.94-7.38,6.82-7.92.33-.05.67-.07,1.01-.08l23.68-.24c4.37-.04,7.95,3.46,8,7.83Z"/>
+  <text class="cls-1" transform="translate(143.54 63.65) rotate(-.43) scale(.92 1)"><tspan x="0" y="0">Pagergram</tspan></text>
+</svg>

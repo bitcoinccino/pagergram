@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f3a3a6;
+        font-family: ChocolateRegular, Chocolate;
+        font-size: 50.26px;
+      }
+
+      .cls-1, .cls-2 {
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <g class="cls-2">
+    <text class="cls-1" transform="translate(17.69 63.26) rotate(-.43) scale(1.53 1)"><tspan x="0" y="0">Pagergram</tspan></text>
+  </g>
+</svg>
